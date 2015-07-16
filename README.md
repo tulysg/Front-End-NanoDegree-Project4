@@ -1,5 +1,8 @@
-####Part 1: Optimize PageSpeed Insights score for index.html
+To view the portfolio project click here.
 
+http://tulysg.github.io/Front-End-NanoDegree-Project4/
+
+####Part 1: Optimize PageSpeed Insights score for index.html
 
 1. Optimized image pizzeria.jpg from W: 2048px, H:1536 px to a new size of W: 100px, H: 75px for index.html page.
 2. Customized image, title, header and email address on index.html.
@@ -9,6 +12,9 @@
 6. minified and inlined style.css file.
 7.Created pizzeria-big.jpg for pizza.html page so that  index.html has only small  size jpg .
 
+To view pizza.html click here.
+
+http://tulysg.github.io/Front-End-NanoDegree-Project4/views/pizza.html
 
 ####Part 2: Optimize Frames per Second in pizza.html.
 
